@@ -19,5 +19,8 @@ Run the application from command terminal. It uses asyncio and will not work in 
 The computer shall be plugged into the SEM6000. The SEM6000 shall be in default configuration (Name: Voltcraft, PIN: 0000).
 After PowerSpy finds the device, it launches a plot and shows an averaged power consumption / CPU load.
 
+PLugged in SEM6000:<br>
+<img src="photo.png" width="400" alt="PC plugged into SEM6000">
 
-<img src="photo.png" height="400" alt="PC plugged into SEM6000"><img src="diagram.png" height="400" alt="Diagram showing the CPU load and Power consumption">
+Power and CPU load diagram:<br>
+<img src="diagram.png" height="600" alt="Diagram showing the CPU load and Power consumption">
