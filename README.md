@@ -16,6 +16,10 @@ pip install bleak
 
 Run the application from command terminal. It uses asyncio and will not work in a running event loop when using Spyder or similar.
 
+````
+python3 PowerSpy.py
+````
+
 The computer shall be plugged into the SEM6000. The SEM6000 shall be in default configuration (Name: Voltcraft, PIN: 0000).
 After PowerSpy finds the device, it launches a plot and shows an averaged power consumption / CPU load.
 
