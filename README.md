@@ -28,3 +28,7 @@ PLugged in SEM6000:<br>
 
 Power and CPU load diagram:<br>
 <img src="diagram.png" height="600" alt="Diagram showing the CPU load and Power consumption">
+
+As seen in the diagram, the CPU load and power consumption strongly correlates with each other if the GPU load is not to high.
+If for example any sneaky crypto mining trojan horse would be running well hidden on the machine, the power consumption will
+be suspiciously high.
